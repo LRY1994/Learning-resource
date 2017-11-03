@@ -60,6 +60,9 @@ https://github.com/coligo-io/notes-app-vuejs-vuex
 * Packaged version of Ace code editor
 https://github.com/ajaxorg/ace-builds
 
+* PNotify is a JavaScript notification plugin, developed by SciActive. PNotify can also provide desktop notifications based on the Web Notifications spec. If desktop notifications are not available or not allowed, PNotify will fall back to displaying the notice as a regular, in-browser notice.
+https://github.com/sciactive/pnotify
+
 * JsGen is a next generation，free, open source web software that you can generate a powerful website, such as blog, forum, etc. It is coded by pure JavaScript, based on Node.js, AngularJS, MongoDB.
 https://github.com/zensh/jsgen
 
