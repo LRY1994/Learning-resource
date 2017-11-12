@@ -1,5 +1,9 @@
 # Learning-resource
 
+## full stack
+* Growth Engineering: The Definitive Guide。全栈增长工程师指南 http://growth.phodal.com/
+* 全栈增长工程师实战 http://growth-in-action.phodal.com/
+
 ## Jekyll
 * Ovilia's blog http://zhangwenli.com/blog
   源码：https://github.com/Ovilia/blog
