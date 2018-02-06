@@ -1,5 +1,8 @@
 # Learning-resource
 
+## css
+* css3 grid layout https://css-tricks.com/snippets/css/complete-guide-grid/#prop-align-items
+
 ## full stack
 * Growth Engineering: The Definitive Guide。全栈增长工程师指南 http://growth.phodal.com/
 * 全栈增长工程师实战 http://growth-in-action.phodal.com/
